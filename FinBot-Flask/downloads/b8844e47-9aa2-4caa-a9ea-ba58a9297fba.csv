@@ -1,0 +1,75 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+0,MALAVIYA NATIONAL INSTITUTE OF TECHNOLOGY JAIPUR,,,,,,
+1,,,,,,,
+2,Details of the topics and faculty members for Summer Internship 2025,,,,,,
+3,,,,,,,
+4,,,,,,,
+5,S. No.,Email Address,Name of Faculty Member/ Supervisor/Mentor proposing,Instutute Id,Department Name,Proposed Topic-1,Proposed Topic-2
+6,1,nkumar.arch@mnit.ac.in,Dr Nand Kumar,MNITJAS108,Architecture and planning,Study of water pricing in cities,Study of Setbacks in residential buildings
+7,2,sangeeth.arch@mnit.ac.in,Sangeeth S Pillai,MNITJAS306,Architecture and Planning,"Biomedical Product Design ( Coding, Mechatronics, Product Design, 3D CAD)","Computational and Parametric Design (for Graphic, Product and Toy Design)"
+8,3,parul.cee@mnit.ac.in,Parul Mathuria,MNITJAS290,Centre for Energy and Environment,EV charging navigation App using Flutter and Python,Blockchain based Multi-Layer Energy Management System for Smart Buildings.
+9,4,jmathur.mech@mnit.ac.in,Jyotirmay Mathur,MNITJAS080,Centre for Energy and Environment,Development of an Interactive Website / tool for Climate Data Visualization of Indian cities using data analysis,Development of web-based tool for data analysis of IEQ and occupant performance
+10,5,someena.chem@mnit.ac.in,Dr. Shiv Om Meena,MNITJAS159,Chemical Engineering,Wastewater treatment using Electro-oxidation,
+11,6,vsr.chem@mnit.ac.in,V Subbaramaiah,MNITJAS215,Chemical Engineering,Valorization of waste resources into functionalized catalyst for environmental applications: Machine Learning Approach,Machine Learning Approach for the Evaluation of Advanced Oxidation Processes
+12,7,rohidas.chem@mnit.ac.in,Dr. Rohidas Gangaram Bhoi,MNITJAS288,Chemical Engineering,Comparison of wastewater treatment technologies and its comparison using Multi Criteria Decision making techniques.,Machine learning based prediction of oil produced from pyrolysis process
+13,8,vlakshmi.chem@mnit.ac.in,Vijayalakshmi Gosu,MNITJAS311,Chemical Engineering,Development of Machine Learning Models for Biomass to Value Added  Chemicals,Machine Learning Approach for the Evaluation of Catalytic Process
+14,9,rkdohare.chem@mnit.ac.in,Rajeev Kumar Dohare,MNITJAS141,Chemical Engineering,Wastewater Treatment through Green Technology,Implementation of Hardware Control through LabView.
+15,10,vksangal.chem@mnit.ac.in,Dr. Vikas Kumar Sangal,MNITJAS247,Chemical Engineering,Wastewater treatment using advanced oxidation process,
+16,11,pawan.chy@mnit.ac.in,Pawan Rekha,MNITJAS267,Chemistry ,Acid base bifunctional nanoporous hybrid catalyst for chemical fixation of CO2,
+17,12,mkjat.ce@mnit.ac.in,Mahesh Kumar Jat,MNITJAS157,Civil Engineering,Development of Rainfall IDF Curves considering Climate Change,Urban Flood modelling using remote sensing and GIS
+18,13,abhisekhsaha.ce@mnit.ac.in,Abhisekh Saha,MNITJAS368,Civil Engineering,Effect of biobased polymer on the geotechnical properties of arid soil,
+19,14,nmittal.cse@mnit.ac.in,Namita Mittal,MNITJAS101,Computer Science and Engg.,Secure & Interoperable Blockchain Framework for Demand Response in Smart Grids,Development of a Digital Twin for Demand Response Testing
+20,15,mtripathi.cse@mnit.ac.in,Meenakshi Tripathi,MNITJAS137,Computer Science and Engineering,AI in Cyber Security,Application Development
+21,16,jgrover.cse@mnit.ac.in,Jyoti Grover ,MNITJAS256,Computer Science and Engineering ,AI/ML based solutions for Network Security ,Design of Cyber Security Awareness App
+22,17,rbbattula.cse@mnit.ac.in,Ramesh Babu Batula,MNITJAS162,CSE and CCS MNIT Jaipur,Security for 6G,Digital Twin for Smart City
+23,18,tarushc@mnit.ac.in,Tarush Chandra ,MNITJAS104,Department of Architecture and Planning ,Unsung Heritage of Prayagraj: a Monograph,Mapping the Green Wall for Development of Sustainable Habitats in Protected Areas of Rajasthan 
+24,19,brijmohan.meta@mnit.ac.in,Dr. Brij Mohan Mundotiya,MNITJAS326,Department of Metallurgical and Materials Engineering,Tribological studies of electrodeposited high entropy alloy coatings,
+25,20,sandipan.dms@mnit.ac.in,Dr Sandipan Karmakar,MNITJAS387,Dept of Management Studies,Modelling and Analysis using Probabilistic Machine Learning and Deep Learning,Facilty Location Optimization in Supply Chain Network Design using Python
+26,21,menka.ece@mnit.ac.in,Menka,MNITJAS284,ECE,Analog/Digital circuit design,approximate computing- hardware design
+27,22,sarthak.ece@mnit.ac.in,Dr. Sarthak Singhal,MNITJAS262,ECE,Design of MIMO Antenna for 5G/6G Applications,Design of FSS for 5G/6G Applications
+28,23,rajendra.ece@mnit.ac.in,Rajendra Mitharwal,MNITJAS266,ECE,"Development of Electromagnetic Code for Scattering due
+to Dielectric Objects in Two Dimension",
+29,24,kuldeep.ece@mnit.ac.in,Kuldeep Singh,MNITJAS278,ECE,AI/ML in Healthcare,
+30,25,vinay.ee@mnit.ac.in,Dr. Vinay Pratap Singh,MNITJAS282,Electrical Engineering,AI/ML Applications,AI/ML Applications and Web Development
+31,26,surender.ee@mnit.ac.in,Surender Hans,MNITJAS363,Electrical Engineering,Medical Robotics,Deep Learning in Healthcare
+32,27,satish.ee@mnit.ac.in,Dr Satish Sharma,MNITJAS300,Electrical Engineering,AI/ML techniques for Data Analytics,Distributed Optimization Techniques for Power System
+33,28,hmeena.ee@mnit.ac.in,Hemant Kumar Meena,MNITJAS184,Electrical Engineering,"Biomedical signal processing (ECG,EEG,EMG)",Basic application in machine learning and signal processing
+34,29,amjoshi.ece@mnit.ac.in,Amit M Joshi,MNITJAS195,Electronics & Communication,AI/ML in healthcare,Brainn computer interface
+35,30,bharat.ece@mnit.ac.in,Dr. Bharat Choudhary,MNITJAS322,Electronics and Communication Engineering,Digital VLSI Design,Device Modeling and Simulation
+36,31,pbhatt.hum@mnit.ac.in,Dr Preeti Bhatt,MNITJAS136,Humanities and Social Sciences,Ecocritical Readings of Literature and Other Media,
+37,32,nidhib.hum@mnit.ac.in,Dr Nidhi Bansal,MNITJAS257,Humanities and Social Sciences,Women in Science: A Sociological Study,Women in Science: A Sociological Study
+38,33,sundeep.dms@mnit.ac.in,Dr. Sundeep Kumar,MNITJAS357,Maanagement Studies,Impact of MGNREGA/Government schemes on Economic Development ,Use of Smart/Digital Technologies  For  City Management
+39,34,aakanksha.dms@mnit.ac.in,Aakanksha Kataria,MNITJAS302,Management,Case Development,Social Entrepreneurship 
+40,35,ayush.dms@mnit.ac.in,Dr. Ayush Gautam ,MNITJAS386,Management Studies ,Supply chain Analytics ,Business Analytics 
+41,36,nisha.mrc@mnit.ac.in,Dr. Nisha Verma,MNITJAS294,Materials Research Centre,Processing of TiNiSn alloys for thermoelectric applications,Oxidation Behaviour of MAX Phase
+42,37,kushal.maths@mnit.ac.in,Dr Kushal Sharma,MNITJAS265,Mathematics,"Modeling and Simulation of Non-Newtonian Flows 
+",
+43,38,geetanjali.maths@mnit.ac.in,Dr. Geetanjali Chattopadhyay,MNITJAS346,Mathematics,Semi-analytical modelling and CFD simulation of non-Newtonian fluid flow over superhydrophobic surfaces,Analysis of thin film flows down inclined planes with weighted residual techniques
+44,39,yashwant.mech@mnit.ac.in,Dr. Yashwant Koli,MNIT JAIPUR,Mechanical,Corrosion and wear analysis of additively manufactured samples,Fabrication of multi-wall structure using wire-arc additive manufacturing 
+45,40,gulab.mech@mnit.ac.in,Gulab Pamnani ,MNITJAS330,Mechanical Engineering,Simulation/Fabrication of Composite,
+46,41,manjinder.mech@mnit.ac.in,Manjinder Singh,MNITJAS339,Mechanical Engineering,Imbibition in Hydrophobic Capillaries,
+47,42,gsoni.mech@mnit.ac.in,Gunjan Soni,MNITJJAS173,Mechanical Engineering,Development of an Educational Mobile Robot for AI Implementation ,
+48,43,preetigulia.mech@mnit.ac.in,Preeti Gulia,MNITJAS365,Mechanical Engineering,"Developing a Two-Microphone Impedance Tube
+from Repurposed Waste",Noise Reduction Using Periodic Structure (Phononic Crystal)
+49,44,ramdayal.mech@mnit.ac.in,Ram Dayal,MNITJAS280,Mechanical Engineering,Numerical Simulation of Heat Conduction in Heterogeneous Solids,
+50,45,naresh.mech@mnit.ac.in,Dr. Naresh Kumar Raghuwanshi,MNITJAS320,Mechanical Engineering ,Intelligent machine fault diagnosis ,
+51,46,pankaj.mech@mnit.ac.in,Pankaj Kumar Gupta,MNITJAS279,Mechanical Engineering Department,Study and Development of Framework on Packers and Movers in India,Cultivation of Indian Knowledge System in Present Education System
+52,47,kunal.meta@mnit.ac.in,Dr. Kunal Borse,MNITJAS318,Metallurgical and Materials Engineering,Polymer nano-composites,Nano-composites for aerospace applications
+53,48,rkg.meta@mnit.ac.in,Rajendra Kumar Goyal,MNITJAS244,Metallurgical and Materials Engineering,Additive Manufacturing of Polymer Composites (Institute Paid Internship),Removal of Impurity from Dross and Characterization (Sponsored Project Paid Internship)
+54,49,vijay.meta@mnit.ac.in,Vijay Navaratna Nadakuduru,MNITJAS220,Metallurgical and Materials Engineering,Resistance spot welding of AA6061 alloy,Synthesis of WC based cutting tools via powder metallurgy route
+55,50,suresh.meta@mnit.ac.in,Dr. Bandi Suresh,MNITJAS385,Metallurgical and Materials Engineering,Effect of alloying on phase & structure stability in Tungsten Oxides,Effect of alloying on phase & structure stability in Zirconia Oxides
+56,51,jyotirmaya.meta@mnit.ac.in,Jyotirmaya Kar ,MNITJAS296,Metallurgical and Materials Engineering,SLM based additive manufacturing of Ti-6Al-4V: Microstructure and Mechanical properties.,
+57,52,deepankar.meta@mnit.ac.in,Deepankar Panda ,MNITJAS373,METALLURGICAL AND MATERIALS ENGINEERING ,Study of grain growth kinetics of during annealing of hot rolled pure Mg,
+58,53,jjpanda.ncdmm@mnit.ac.in,Jagajyoti Panda,MNITJAS372,National Centre for Disaster Mitigation & Management,Seismic Performance of Steel Tubular Section-Based Beam-to-Column Moment Connections,Dynamic Characterization of Beam Type Structures: Theoretical Analysis and Experimental Validation
+59,54,mkumar.phy@mnit.ac.in,Manoj Kumar,MNITJAS233,Physics,Synthesis of Bismuth based Quantum Materials,Synthesis of High-Tc Superconductors
+60,55,rsinghal.phy@mnit.ac.in,Rahul Singhal,MNITJAS169,Physics,Metal-Carbon Nanocomposite for Optical Applications,
+61,56,kavita.phy@mnit.ac.in,Dr. Kavita Lalwani,MNITJAS232,Physics,"Innovating Radiation Shields for Deep Space Exploration.
+","Geant4 Simulations for High Energy Physics Applications.
+"
+62,57,kawasthi.phy@mnit.ac.in,Dr. Kamlendra Awasthi,MNITJAS,Physics,Functional Materials for Flexible Gas Sensor ,
+63,58,kapil.cee@mnit.ac.in,Kapil Pareek,MNITJAS230,Centre for Energy and Environment,Artificial Intelligence-driven real-world battery,
+64,59,ragrawal.mech@mnit.ac.in,Dr. Rajeev Agrawal,MNITJAS246,Mechanical Engineering ,AI-driven intelligent information exchange for next-gen. Supply chain optimization,AI enabled Health care Waste Management
+65,60,dhiraj.ce@mnit.ac.in,Dr. Dhiraj Raj,MNITJAS,Civil Engineering,Multi-Hazard Risk Assessment a City Level,
+66,61,swati.meta@mnit.ac.in,Dr. Swati Sharma,MNITJAS,Metallurgical and Materials Engineering,High Temperature Oxidaton Resistant Coating,Ultra High Strength Steels
+67,62,magarwal.chem@mnit.ac.in,Prof. Madhu Agarwal,MNITJAS,Chemical Engineering,Design and Development of Material for Removal of Fluoride and Arsenic for Groundwater,
+68,63,sunanda.cee@mnit.ac.in,Dr. Sunanda Sinha,MNITJAS,Centre for Energy and Environment,New and Innovative Applilcation of Solar PV (NIPV) for future Sustainability,
