@@ -3,7 +3,7 @@ import axios from "axios";
 
 const router = express.Router();
 
-router.post('/flask/ingest', async (req, res) => {
+router.post('/api/ingest', async (req, res) => {
     try {
         // Forward request body to Flask
         const response = await axios.post('http://localhost:5001/ingest', req.body);

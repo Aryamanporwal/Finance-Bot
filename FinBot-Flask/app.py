@@ -49,7 +49,7 @@ app = Flask(__name__  , template_folder = 'templates')
 #     else:
 #         return 'Some Parameters are missing'
 
-@app.route('/' , methods = ['GET' , 'POST'])
+@app.route('/ingest' , methods = ['GET' , 'POST'])
 def index() : 
     if request.method == 'GET':
         return render_template('index.html')
@@ -117,5 +117,5 @@ def handle_post():
     return jsonify({'message' : 'Successfully written'})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port = 5000 , debug = True)
+    app.run(host='0.0.0.0', port = 5001 , debug = True)
 
