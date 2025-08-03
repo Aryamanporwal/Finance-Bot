@@ -1,24 +1,18 @@
-import { useEffect, useState } from "react";
-import axios from "axios";
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import SignUpPage from './components/Signup.jsx';
 
 function App() {
-  const [users, setUsers] = useState([]);
-
-  useEffect(() => {
-    axios.get(`${import.meta.env.VITE_API_URL}/users`)
-      .then(res => setUsers(res.data))
-      .catch(err => console.error(err));
-  }, []);
-
   return (
-    <div>
-      <h1>FinBot</h1>
-      <ul>
-        {users.map((u, i) => (
-          <li key={i}>{u.name} - {u.email}</li>
-        ))}
-      </ul>
-    </div>
+    <Router>
+      <div className="App">
+        <Routes>
+          <Route path="/" element={<Navigate to="/signup" replace />} />
+          <Route path="/signup" element={<SignUpPage />} />
+          {/* Add more routes as needed */}
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
