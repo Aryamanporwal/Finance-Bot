@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import SignUpPage from './components/Signup.jsx';
 // no need of welcome import 
 import Welcome from "./components/Welcome.jsx";
+import StockTracker from './components/stock.jsx';
 
 function App() {
   return (
@@ -15,8 +16,7 @@ function App() {
 
           {/* this route for welcome no need */}
           <Route path="/welcome" element={<Welcome />} />
-
-          
+          <Route path="/stocks" element={<StockTracker />} />        
         </Routes>
       </div>
     </Router>
