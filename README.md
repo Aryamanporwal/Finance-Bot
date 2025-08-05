@@ -5,7 +5,7 @@ This project is built using **MERN** for the main backend/frontend and **Flask (
 ---
 
 ## 📦 Folder Structure
-
+```
 finance-bot/
 │
 ├── FinBot/ 
@@ -80,6 +80,8 @@ finance-bot/
 │ ├── .gitignore # Ignore venv and pycache
 │
 ├── README.md
+
+```
 
 ---
 
